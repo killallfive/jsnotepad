@@ -5,6 +5,10 @@
   "scripts": {
     "build": "grunt build"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/killallfive/jsnotepad.git"
+  },
   "author": "guozijun",
   "devDependencies": {
     "grunt": "^1.0.1",
